@@ -15,14 +15,17 @@
   "deletedFilesIos": [
     "scripts\\storages\\memory-store.js",
     "scripts\\storages\\ls-store.js",
-    "scripts\\storages\\websql-store.js"
+    "scripts\\storages\\websql-store.js",
+    "scripts\\index.js"
   ],
   "addedPluginsIos": [],
   "deletedPluginsIos": [],
   "changedFiles": [
-    "config.xml"
+    "index.html"
   ],
-  "deletedFiles": [],
+  "deletedFiles": [
+    "scripts\\index.js"
+  ],
   "addedPlugins": [],
   "deletedPlugins": []
 }
