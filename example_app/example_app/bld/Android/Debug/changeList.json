@@ -35,7 +35,9 @@
   ],
   "addedPluginsIos": [],
   "deletedPluginsIos": [],
-  "changedFiles": [],
+  "changedFiles": [
+    "config.xml"
+  ],
   "deletedFiles": [],
   "addedPlugins": [],
   "deletedPlugins": []

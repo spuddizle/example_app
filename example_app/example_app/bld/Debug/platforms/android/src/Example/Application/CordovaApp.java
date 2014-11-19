@@ -17,7 +17,7 @@
        under the License.
  */
 
-package io.cordova.exampleApp;
+package Example.Application;
 
 import android.os.Bundle;
 import org.apache.cordova.*;
