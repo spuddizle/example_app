@@ -10,7 +10,22 @@
     "scripts\\lib\\handlebars.js",
     "css\\styles.css",
     "css\\source-sans-pro.js",
-    "config.xml"
+    "config.xml",
+    "images\\Pamela_Beesly.jpg",
+    "images\\Jim_Halpert.jpg",
+    "images\\Andy_Bernard.jpg",
+    "images\\Dwight_Schrute.jpg",
+    "images\\Oscar_Martinez.jpg",
+    "images\\Phyllis_Lapin.jpg",
+    "images\\Angela_Martin.jpg",
+    "images\\Meredith_Palmer.jpg",
+    "images\\Kelly_Kapoor.jpg",
+    "images\\Ryan_Howard.jpg",
+    "images\\Stanley_Hudson.jpg",
+    "images\\Creed_Bratton.jpg",
+    "images\\Kevin_Malone.jpg",
+    "images\\Toby_Flenderson.jpg",
+    "images\\Michael_Scott.jpg"
   ],
   "deletedFilesIos": [
     "scripts\\storages\\memory-store.js",
@@ -21,11 +36,9 @@
   "addedPluginsIos": [],
   "deletedPluginsIos": [],
   "changedFiles": [
-    "index.html"
+    "scripts\\lib\\jquery-1.8.2.min.js"
   ],
-  "deletedFiles": [
-    "scripts\\index.js"
-  ],
+  "deletedFiles": [],
   "addedPlugins": [],
   "deletedPlugins": []
 }
